@@ -1,10 +1,13 @@
-#VPP performance evaluation
+VPP performance evaluation
+=========
 To compare VPP performance with Veth pair and Openvswitch between two hosts
 
-##Maintainer
+Maintainer
+----------
 * Fan Zhongyi (fzyitt@gmail.com)
 
-##Setup
+Setup
+----------
 * Ubuntu 16.04 LTS
 * VPP version 18.04
 * Openvswitch version 2.5.2
